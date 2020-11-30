@@ -1,0 +1,9 @@
+[package]
+name = "prime-summer"
+version = "0.1.0"
+authors = ["Anders Kaseorg <andersk@mit.edu>"]
+edition = "2018"
+
+[dependencies]
+primesieve-sys = "0.2.3"
+rug = "1.11.0"
